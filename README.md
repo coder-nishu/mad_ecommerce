@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-#Figma Project Link:
+##Figma Project Link:
+
 -https://drive.google.com/drive/folders/1BdNnJXm2KQqqcyVKehUwghnhuU2xgeVL?usp=drive_link
 
 A few resources to get you started if this is your first Flutter project:
