@@ -11,7 +11,6 @@ import '../widgets/appbar_text.dart';
 import '../widgets/have_to_login.dart';
 import '../widgets/heading.dart';
 import '../widgets/profile_image_picker.dart';
-import '../widgets/scratcher.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

@@ -5,6 +5,8 @@ import 'package:google_fonts/google_fonts.dart';
 import '../model/product_model.dart';
 import '../routers/app_routers.dart';
 import '../widgets/appbar_text.dart';
+import '../widgets/have_to_login.dart';
+import '../widgets/prduct_card.dart';
 
 class WishListPage extends StatelessWidget {
   WishListPage({super.key});

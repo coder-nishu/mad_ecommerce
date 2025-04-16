@@ -1,14 +1,12 @@
 import 'package:device_preview/device_preview.dart';
-import 'package:ecommerce/providers/bottom_nav_provider.dart';
-import 'package:ecommerce/providers/cart_provider.dart';
-import 'package:ecommerce/providers/category_product_provider.dart';
-import 'package:ecommerce/providers/login_provider.dart';
-import 'package:ecommerce/providers/product_detail_provider.dart';
-import 'package:ecommerce/providers/signup_provider.dart';
-import 'package:ecommerce/routers/route_generator.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:mad_ecommerce/providers/bottom_nav_provider.dart';
+import 'package:mad_ecommerce/providers/cart_provider.dart';
+import 'package:mad_ecommerce/providers/login_provider.dart';
+import 'package:mad_ecommerce/providers/product_detail_provider.dart';
+import 'package:mad_ecommerce/providers/signup_provider.dart';
 import 'package:mad_ecommerce/routers/route_generator.dart';
 import 'package:provider/provider.dart';
 

@@ -5,6 +5,7 @@ import 'package:iconsax_flutter/iconsax_flutter.dart';
 import '../widgets/animated_button.dart';
 import '../widgets/appbar_text.dart';
 import '../widgets/cart_item.dart';
+import '../widgets/heading.dart';
 
 class CheckoutPage extends StatelessWidget {
   const CheckoutPage({super.key});
