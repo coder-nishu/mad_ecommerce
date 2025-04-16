@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCWlme--pWMrS1pIFLApTmqU0x9BhAUMY8',
-    appId: '1:708026884574:web:77bb9c1cdf11c8c5eafd4f',
-    messagingSenderId: '708026884574',
-    projectId: 'ecommercelatest',
-    authDomain: 'ecommercelatest.firebaseapp.com',
-    storageBucket: 'ecommercelatest.firebasestorage.app',
-    measurementId: 'G-NM091TLV2W',
+    apiKey: 'AIzaSyBFr1Mflwp1F80pnOjIB_ro6qBgTKhQLzc',
+    appId: '1:381734049287:web:d51d36223044747893fca2',
+    messagingSenderId: '381734049287',
+    projectId: 'madecommercegit',
+    authDomain: 'madecommercegit.firebaseapp.com',
+    storageBucket: 'madecommercegit.firebasestorage.app',
+    measurementId: 'G-YTWV1KCX1Z',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD2-PpBjN6ueqbsWlSXj_QltNsSdu03uUQ',
-    appId: '1:708026884574:android:a4f99464893b2b8feafd4f',
-    messagingSenderId: '708026884574',
-    projectId: 'ecommercelatest',
-    storageBucket: 'ecommercelatest.firebasestorage.app',
+    apiKey: 'AIzaSyD8kiQJU-aL-_olJPU5bRUNT0J3lyEPEcU',
+    appId: '1:381734049287:android:bbdcee4b999b024493fca2',
+    messagingSenderId: '381734049287',
+    projectId: 'madecommercegit',
+    storageBucket: 'madecommercegit.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC8FdouMUYWp9q2bqlk0uMVt-ZGlCyxOhI',
-    appId: '1:708026884574:ios:8ac197f3b2aed9b9eafd4f',
-    messagingSenderId: '708026884574',
-    projectId: 'ecommercelatest',
-    storageBucket: 'ecommercelatest.firebasestorage.app',
-    iosBundleId: 'com.example.ecommerce',
+    apiKey: 'AIzaSyDTlmOtAUTLVB1SMCvgcQ2kUm-46rpG0Bg',
+    appId: '1:381734049287:ios:2036ea344f73be8f93fca2',
+    messagingSenderId: '381734049287',
+    projectId: 'madecommercegit',
+    storageBucket: 'madecommercegit.firebasestorage.app',
+    iosBundleId: 'com.example.madEcommerce',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC8FdouMUYWp9q2bqlk0uMVt-ZGlCyxOhI',
-    appId: '1:708026884574:ios:8ac197f3b2aed9b9eafd4f',
-    messagingSenderId: '708026884574',
-    projectId: 'ecommercelatest',
-    storageBucket: 'ecommercelatest.firebasestorage.app',
-    iosBundleId: 'com.example.ecommerce',
+    apiKey: 'AIzaSyDTlmOtAUTLVB1SMCvgcQ2kUm-46rpG0Bg',
+    appId: '1:381734049287:ios:2036ea344f73be8f93fca2',
+    messagingSenderId: '381734049287',
+    projectId: 'madecommercegit',
+    storageBucket: 'madecommercegit.firebasestorage.app',
+    iosBundleId: 'com.example.madEcommerce',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCWlme--pWMrS1pIFLApTmqU0x9BhAUMY8',
-    appId: '1:708026884574:web:d3ce4f67f82485d0eafd4f',
-    messagingSenderId: '708026884574',
-    projectId: 'ecommercelatest',
-    authDomain: 'ecommercelatest.firebaseapp.com',
-    storageBucket: 'ecommercelatest.firebasestorage.app',
-    measurementId: 'G-Z4YFYQQWVZ',
+    apiKey: 'AIzaSyBFr1Mflwp1F80pnOjIB_ro6qBgTKhQLzc',
+    appId: '1:381734049287:web:1631329d683c332693fca2',
+    messagingSenderId: '381734049287',
+    projectId: 'madecommercegit',
+    authDomain: 'madecommercegit.firebaseapp.com',
+    storageBucket: 'madecommercegit.firebasestorage.app',
+    measurementId: 'G-BLRXPZQLR1',
   );
 
 }
