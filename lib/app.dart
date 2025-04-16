@@ -1,11 +1,10 @@
-import 'package:ecommerce/providers/bottom_nav_provider.dart';
-import 'package:ecommerce/providers/category_product_provider.dart';
-import 'package:ecommerce/views/cart_page.dart';
-import 'package:ecommerce/views/home_page.dart';
-import 'package:ecommerce/views/profile_page.dart';
-import 'package:ecommerce/views/wish_list_page.dart';
-import 'package:ecommerce/widgets/bottom_nav.dart';
 import 'package:flutter/material.dart';
+import 'package:mad_ecommerce/providers/bottom_nav_provider.dart';
+import 'package:mad_ecommerce/views/cart_page.dart';
+import 'package:mad_ecommerce/views/home_page.dart';
+import 'package:mad_ecommerce/views/profile_page.dart';
+import 'package:mad_ecommerce/views/wish_list%20page.dart';
+import 'package:mad_ecommerce/widgets/bottom_nav.dart';
 import 'package:provider/provider.dart';
 
 class EzzyShopSpp extends StatefulWidget {
