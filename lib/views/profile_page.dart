@@ -50,20 +50,10 @@ class ProfilePage extends StatelessWidget {
               child: ListView(
                 children: [
                   ProfileImagePicker(),
-                  const SizedBox(height: 20),
-                  Center(
-                    child: Text(
-                      'Change Your Profile Picture',
-                      style: GoogleFonts.montserrat(
-                        fontSize: 14,
-                        fontWeight: FontWeight.w600,
-                        color: Colors.grey[600],
-                      ),
-                    ),
-                  ),
-                  const SizedBox(height: 40),
+                  const SizedBox(height: 30),
                   HHeading(
                     title: 'Profile Information',
+                    icon: Icons.person,
                     isSeeAll: false,
                     titleFontSize: 20,
                   ),
@@ -72,6 +62,7 @@ class ProfilePage extends StatelessWidget {
                   Divider(color: Colors.grey[300], thickness: 1, height: 50),
                   HHeading(
                     title: 'Other Information',
+                    icon: Icons.info_outline_rounded,
                     isSeeAll: false,
                     titleFontSize: 20,
                   ),
@@ -295,10 +286,10 @@ class ProfilePage extends StatelessWidget {
                                 border: OutlineInputBorder(
                                   borderRadius: BorderRadius.circular(15),
                                 ),
-                                focusColor: Colors.teal,
+                                focusColor: Colors.deepOrange,
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: const BorderSide(
-                                    color: Colors.teal,
+                                    color: Colors.deepOrange,
                                   ),
                                   borderRadius: BorderRadius.circular(15),
                                 ),
